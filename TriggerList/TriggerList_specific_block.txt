@@ -1,0 +1,17 @@
+! 09/05/2018, 14:47:06 https://bulma.io/
+bulma.io##p.control:nth-of-type(1) > .bd-patreon-button
+
+! 09/05/2018, 14:47:52 https://bulma.io/
+bulma.io###bulma-book.is-medium.hero.bd-book-banner
+
+! 09/05/2018, 14:48:02 https://bulma.io/
+bulma.io###newsletter
+
+! 08/05/2018, 11:42:00 https://bulma.io/documentation/components/navbar/
+bulma.io##.bd-side-sponsors
+
+! 08/05/2018, 11:42:07 https://bulma.io/documentation/components/navbar/
+bulma.io##.is-fortyfour.bd-banner
+
+! 09/05/2018, 14:58:00 https://www.spareroom.co.uk/content/myaccount/myaccount-index/
+www.spareroom.co.uk##.essential_guide.panel

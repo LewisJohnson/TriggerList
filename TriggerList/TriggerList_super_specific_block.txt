@@ -1,0 +1,26 @@
+! 09/05/2018, 14:45:59 https://www.sharelatex.com/project
+www.sharelatex.com##.ng-scope.text-centered.row-spaced
+
+! 09/05/2018, 14:50:12 https://stackoverflow.com/users/4153164/lewis-johnson
+stackoverflow.com##.js-toggle-jobs
+
+! 09/05/2018, 14:54:15 https://www.twitch.tv/sips_
+www.twitch.tv##.tw-tooltip-wrapper.tw-inline-flex > div:nth-of-type(1) > .tw-button-icon--overlay.tw-button-icon--large.tw-button-icon > .tw-button-icon__icon
+
+! 09/05/2018, 14:55:23 https://www.twitch.tv/sips_
+www.twitch.tv##.tw-relative.tw-c-background.pinned-cheer-v2-header
+
+! 09/05/2018, 14:55:33 https://www.twitch.tv/sips_
+www.twitch.tv##.tw-z-default.pinned-cheer-v2
+
+! 09/05/2018, 14:55:48 https://www.twitch.tv/sips_
+www.twitch.tv##div.tw-mg-l-1:nth-of-type(3) > .tw-relative > div > .tw-button--dropmenu.tw-button
+
+! 09/05/2018, 14:55:56 https://www.twitch.tv/sips_
+www.twitch.tv##.tw-top-0.tw-right-0.tw-absolute > button.tw-button-icon--secondary.tw-button-icon:nth-of-type(1) > .tw-button-icon__icon
+
+! 09/05/2018, 14:56:19 https://www.twitch.tv/sips_
+www.twitch.tv##a.top-nav__nav-link:nth-of-type(4)
+
+! 09/05/2018, 14:56:40 https://www.twitch.tv/sips_
+www.twitch.tv##.recommended-friends
